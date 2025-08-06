@@ -6,7 +6,7 @@ CalculadorMovimiento es una aplicación en **Java** que facilita la realización
 
 ##  Características
 
-- Cálculo de velocidad, distancia o tiempo según la fórmula: \(v = \frac{d}{t}\).
+- Cálculo de velocidad, distancia o tiempo según la fórmulas dadas
 - Interfaz simple (consola o GUI, según implementación).
 - Manejo de entradas inválidas.
 - Resultados precisos y claros.
